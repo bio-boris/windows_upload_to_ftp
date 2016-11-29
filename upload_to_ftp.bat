@@ -2,6 +2,7 @@
 echo user MyUserName> ftpcmd.dat
 echo MyPassword>> ftpcmd.dat
 echo bin>> ftpcmd.dat
+echo cd inventory>> ftpcmd.dat
 echo put %1>> ftpcmd.dat
 echo quit>> ftpcmd.dat
 ftp -n -s:ftpcmd.dat SERVERNAME.COM
