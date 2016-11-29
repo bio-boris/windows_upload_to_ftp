@@ -33,4 +33,4 @@ Instructions
 
 14) Check the box "Open the properties dialog for this task"
 
-15) Find the task in the Task Scheduler and Export it, or repeat this for each of the machiens you want
+15) Find the task in the Task Scheduler and Export it, or repeat this for each of the machines you want
